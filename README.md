@@ -109,7 +109,7 @@ const sumFunc = () => {
 
   return arrId.reduce((acc, value) => acc + value);
 };
-console.log(sumFunc());``````
+console.log(sumFunc());
 
 
 
