@@ -1,6 +1,6 @@
-1.HAFTA ÖDEVİ
+# 1.HAFTA ÖDEVİ
 
-let arr1 = ['2', 'a', '3', 3, 4, 3, 5, 5]
+``````let arr1 = ['2', 'a', '3', 3, 4, 3, 5, 5]
 let arr2 = ['c', 'c', 'h', 1, 1, 1, 4]
 let arr3 = [
     { name: 'ali', id: 221 },
@@ -109,15 +109,15 @@ const sumFunc = () => {
 
   return arrId.reduce((acc, value) => acc + value);
 };
-console.log(sumFunc());
+console.log(sumFunc());``````
 
 
 
-DESCRİPTİON
+# DESCRİPTİON
 
 Bu ödevi JS Array meetotlarını kullanarak tamamladım. 
 
 
-AUTHOR
+# AUTHOR
 
 Turgut KAFALI
