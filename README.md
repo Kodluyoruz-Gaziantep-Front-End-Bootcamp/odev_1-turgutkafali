@@ -112,7 +112,7 @@ const sumFunc = () => {
 };
 console.log(sumFunc());
 
-
+``````
 
 # DESCRİPTİON
 
@@ -122,4 +122,4 @@ Bu ödevi JS Array meetotlarını kullanarak tamamladım.
 # AUTHOR
 
 Turgut KAFALI
-``````
+
