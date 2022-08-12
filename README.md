@@ -1,6 +1,7 @@
 # 1.HAFTA ÖDEVİ
 
-``````let arr1 = ['2', 'a', '3', 3, 4, 3, 5, 5]
+``````
+let arr1 = ['2', 'a', '3', 3, 4, 3, 5, 5]
 let arr2 = ['c', 'c', 'h', 1, 1, 1, 4]
 let arr3 = [
     { name: 'ali', id: 221 },
@@ -121,3 +122,4 @@ Bu ödevi JS Array meetotlarını kullanarak tamamladım.
 # AUTHOR
 
 Turgut KAFALI
+``````
